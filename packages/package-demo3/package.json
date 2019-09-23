@@ -9,6 +9,6 @@
   "author": "loma18",
   "license": "ISC",
   "dependencies": {
-    "package-demo2": "^1.0.4"
+    "package-demo2": "^1.0.5"
   }
 }
